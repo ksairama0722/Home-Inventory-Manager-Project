@@ -9,4 +9,4 @@ Core Java(use Java 6 and above version)
 
 The program has a built-in sample inventory file – the first item in that file is displayed (items are listed alphabetically by Inventory Item):
 
-It will introduce object-oriented programming (OOP) concepts to store the inventory data. We discuss how to read and write the inventory file, how to perform the various editing features, how to load a photo file, how to create the buttons used in the search function, and how to print out the inventory
+It will introduce object-oriented programming (OOP) concepts to store the inventory data.
